@@ -30,6 +30,11 @@
 6. **Encoder and Decoder Stacks:**
    - 🔗 Stacks of identical layers for both encoder and decoder.
 
+![nn model](images/full-nn.png)
+-----
+![gif file](images/nne.gif)
+
+
 #### Training:
 
 1. **Loss Function:**
@@ -77,7 +82,7 @@
 3. **Speech Recognition:**
    - 🗣️ Transformers applied to convert spoken language into text.
 
-   
+
 #### Common Libraries:
 
 1. **Transformers Library:**
