@@ -115,3 +115,7 @@
 3. **T5 (Text-To-Text Transfer Transformer):**
    - 🔄 Treats all NLP tasks as a text-to-text problem.
 
+
+
+
+![Transformer_Architecture_complete](Transformer_Architecture_complete.png)
