@@ -116,6 +116,4 @@
    - 🔄 Treats all NLP tasks as a text-to-text problem.
 
 
-
-
 ![Transformer_Architecture_complete](Transformer_Architecture_complete.png)
